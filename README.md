@@ -28,3 +28,5 @@ Muốn xóa commit đã push lên git gốc:
 	4. git reset --hard 299e9dd
 	5. git push origin main --force (xóa n commit đó)
 (git reflog: để cứu lại commit)
+
+https://chatgpt.com/s/t_6a1af2209e3c8191bf1e78f95a5d9c9e
